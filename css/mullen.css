@@ -1,0 +1,8 @@
+.portfolio-box {
+	background-size: cover;
+}
+
+.portfolio-box > img {
+	visibility: hidden;
+	height: 226px;
+}
